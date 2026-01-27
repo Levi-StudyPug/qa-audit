@@ -1,0 +1,3 @@
+# StudyPug PPC Audit Tool Requirements
+
+anthropic>=0.39.0

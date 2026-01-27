@@ -1,0 +1,176 @@
+{
+    "ca": {
+        "guest_urls": [
+            "https://www.studypug.com/parents/ca/",
+            "https://www.studypug.com/students/ca/",
+            "https://www.studypug.com/homeschoolers/ca/",
+            "https://www.studypug.com/teachers/ca/",
+            "https://www.studypug.com/ca/grade1/",
+            "https://www.studypug.com/ca/grade1/practice-test",
+            "https://www.studypug.com/signin/ca/?role=parent",
+            "https://www.studypug.com/signin/ca/?role=student",
+            "https://www.studypug.com/signup/ca/?role=parent",
+            "https://www.studypug.com/signup/ca/?role=student",
+            "https://www.studypug.com/worksheets/ca/grade/2/",
+            "https://www.studypug.com/worksheets/ca/",
+            "https://www.studypug.com/worksheets/ca/foundation/addition/",
+            "https://www.studypug.com/ca/ela-grade-1/",
+            "https://www.studypug.com/ca/ela-grade-10/",
+            "https://www.studypug.com/curriculum/ca/",
+            "https://www.studypug.com/curriculum/ca/ab/math/",
+            "https://www.studypug.com/curriculum/ca/ab/math/grade3/",
+            "https://www.studypug.com/try-free/curriculum/ca/ab/math/grade3/",
+            "https://www.studypug.com/try-free/curriculum/ca/ab/math/homeschool/",
+            "https://www.studypug.com/try-free/curriculum/ca/ab/math/",
+            "https://www.studypug.com/support/ca/how-it-works/?role=student",
+            "https://www.studypug.com/support/ca/how-it-works/?role=parent",
+            "https://www.studypug.com/support/ca/how-it-works/?role=testprep",
+            "https://www.studypug.com/support/ca/why-choose-studypug?role=student",
+            "https://www.studypug.com/support/ca/why-choose-studypug?role=parent",
+            "https://www.studypug.com/support/ca/why-choose-studypug?role=testprep",
+            "https://www.studypug.com/support/ca/pricing/?role=student",
+            "https://www.studypug.com/support/ca/pricing/?role=parent"
+        ],
+        "parent_urls": [
+            "https://www.studypug.com/payment/ca/?role=parent",
+            "https://www.studypug.com/signin/ca/?role=parent"
+        ],
+        "student_urls": [
+            "https://www.studypug.com/payment/ca/?role=student",
+            "https://www.studypug.com/signin/ca/?role=student"
+        ]
+    },
+    "us": {
+        "guest_urls": [
+            "https://www.studypug.com/parents/us/",
+            "https://www.studypug.com/students/us/",
+            "https://www.studypug.com/homeschoolers/us/",
+            "https://www.studypug.com/teachers/us/",
+            "https://www.studypug.com/us/math-1/",
+            "https://www.studypug.com/us/math-1/practice-test",
+            "https://www.studypug.com/signin/us/?role=parent",
+            "https://www.studypug.com/signin/us/?role=student",
+            "https://www.studypug.com/signup/us/?role=parent",
+            "https://www.studypug.com/signup/us/?role=student",
+            "https://www.studypug.com/worksheets/us/grade/2/",
+            "https://www.studypug.com/worksheets/us/",
+            "https://www.studypug.com/worksheets/us/foundation/addition/",
+            "https://www.studypug.com/us/us-ela-grade-1/",
+            "https://www.studypug.com/us/us-ela-grade-10/",
+            "https://www.studypug.com/curriculum/us/",
+            "https://www.studypug.com/curriculum/us/ca/math/",
+            "https://www.studypug.com/curriculum/us/ca/math/grade3/",
+            "https://www.studypug.com/try-free/curriculum/us/ca/math/grade3/",
+            "https://www.studypug.com/try-free/curriculum/us/ca/math/homeschool/",
+            "https://www.studypug.com/try-free/curriculum/us/ca/math/",
+            "https://www.studypug.com/support/us/how-it-works/?role=student",
+            "https://www.studypug.com/support/us/how-it-works/?role=parent",
+            "https://www.studypug.com/support/us/how-it-works/?role=testprep",
+            "https://www.studypug.com/support/us/why-choose-studypug?role=student",
+            "https://www.studypug.com/support/us/why-choose-studypug?role=parent",
+            "https://www.studypug.com/support/us/why-choose-studypug?role=testprep",
+            "https://www.studypug.com/support/us/pricing/?role=student",
+            "https://www.studypug.com/support/us/pricing/?role=parent"
+        ],
+        "parent_urls": [
+            "https://www.studypug.com/payment/us/?role=parent",
+            "https://www.studypug.com/signin/us/?role=parent"
+        ],
+        "student_urls": [
+            "https://www.studypug.com/payment/us/?role=student",
+            "https://www.studypug.com/signin/us/?role=student"
+        ]
+    },
+    "uk": {
+        "guest_urls": [
+            "https://www.studypug.com/parents/uk/",
+            "https://www.studypug.com/students/uk/",
+            "https://www.studypug.com/homeschoolers/uk/",
+            "https://www.studypug.com/teachers/uk/",
+            "https://www.studypug.com/uk/uk-year5/",
+            "https://www.studypug.com/uk/uk-year5/practice-test",
+            "https://www.studypug.com/signin/uk/?role=parent",
+            "https://www.studypug.com/signin/uk/?role=student",
+            "https://www.studypug.com/signup/uk/?role=parent",
+            "https://www.studypug.com/signup/uk/?role=student",
+            "https://www.studypug.com/support/uk/how-it-works/?role=student",
+            "https://www.studypug.com/support/uk/how-it-works/?role=parent",
+            "https://www.studypug.com/support/uk/how-it-works/?role=testprep",
+            "https://www.studypug.com/support/uk/why-choose-studypug?role=student",
+            "https://www.studypug.com/support/uk/why-choose-studypug?role=parent",
+            "https://www.studypug.com/support/uk/why-choose-studypug?role=testprep",
+            "https://www.studypug.com/support/uk/pricing/?role=student",
+            "https://www.studypug.com/support/uk/pricing/?role=parent"
+        ],
+        "parent_urls": [
+            "https://www.studypug.com/payment/uk/?role=parent",
+            "https://www.studypug.com/signin/uk/?role=parent"
+        ],
+        "student_urls": [
+            "https://www.studypug.com/payment/uk/?role=student",
+            "https://www.studypug.com/signin/uk/?role=student"
+        ]
+    },
+    "au": {
+        "guest_urls": [
+            "https://www.studypug.com/parents/au/",
+            "https://www.studypug.com/students/au/",
+            "https://www.studypug.com/homeschoolers/au/",
+            "https://www.studypug.com/teachers/au/",
+            "https://www.studypug.com/au/au-year5/",
+            "https://www.studypug.com/au/au-year5/practice-test",
+            "https://www.studypug.com/signin/au/?role=parent",
+            "https://www.studypug.com/signin/au/?role=student",
+            "https://www.studypug.com/signup/au/?role=parent",
+            "https://www.studypug.com/signup/au/?role=student",
+            "https://www.studypug.com/support/au/how-it-works/?role=student",
+            "https://www.studypug.com/support/au/how-it-works/?role=parent",
+            "https://www.studypug.com/support/au/how-it-works/?role=testprep",
+            "https://www.studypug.com/support/au/why-choose-studypug?role=student",
+            "https://www.studypug.com/support/au/why-choose-studypug?role=parent",
+            "https://www.studypug.com/support/au/why-choose-studypug?role=testprep",
+            "https://www.studypug.com/support/au/pricing/?role=student",
+            "https://www.studypug.com/support/au/pricing/?role=parent"
+        ],
+        "parent_urls": [
+            "https://www.studypug.com/payment/au/?role=parent",
+            "https://www.studypug.com/signin/au/?role=parent"
+        ],
+        "student_urls": [
+            "https://www.studypug.com/payment/au/?role=student",
+            "https://www.studypug.com/signin/au/?role=student"
+        ]
+    },
+    "shared": {
+        "guest_urls": [
+            "https://www.studypug.com/support/about-us/",
+            "https://www.studypug.com/support/faq/",
+            "https://www.studypug.com/support/testimonials/",
+            "https://www.studypug.com/support/contact-us/",
+            "https://www.studypug.com/basic-math-help/",
+            "https://www.studypug.com/algebra-help/",
+            "https://www.studypug.com/geometry-help/",
+            "https://www.studypug.com/trigonometry-help/",
+            "https://www.studypug.com/calculus-help/",
+            "https://www.studypug.com/chemistry-help/",
+            "https://www.studypug.com/physics-help/",
+            "https://www.studypug.com/statistics-help/",
+            "https://www.studypug.com/differential-equations-help/",
+            "https://www.studypug.com/linear-algebra-help/",
+            "https://www.studypug.com/micro-econ-help/",
+            "https://www.studypug.com/orgchem-help/",
+            "https://www.studypug.com/basic-math-tutor/",
+            "https://www.studypug.com/algebra-tutor/",
+            "https://www.studypug.com/geometry-tutor/",
+            "https://www.studypug.com/trigonometry-tutor/",
+            "https://www.studypug.com/calculus-tutor/",
+            "https://www.studypug.com/chemistry-tutor/",
+            "https://www.studypug.com/physics-tutor/",
+            "https://www.studypug.com/statistics-tutor/",
+            "https://www.studypug.com/differential-equations-tutor/",
+            "https://www.studypug.com/linear-algebra-tutor/",
+            "https://www.studypug.com/micro-econ-tutor/",
+            "https://www.studypug.com/orgchem-tutor/"
+        ]
+    }
+}
